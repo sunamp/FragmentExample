@@ -17,6 +17,8 @@ public class FragmentExampleActivity extends FragmentActivity implements Toolbar
 
         textFragment.changeTextProperties(fontsize, text);
 
+        // extra lines
+
     }
 
 
